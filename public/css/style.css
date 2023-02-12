@@ -1,0 +1,32 @@
+.criterios{
+  padding: 30px;
+  margin-left: 30px;
+  margin-top: 40px;
+  background-color: #0055FF;
+  color: white;
+  border-radius: 10px;
+  width: 1000px;
+}
+
+.nav-link{
+  text-align: left;
+}
+
+.titulo_criterio{
+  font-size: 22px;
+  margin-bottom: -5px;
+}
+
+.criterio{
+  font-size: 20px;  
+  margin-bottom: 2px;
+}
+
+.subcriterio{
+  font-size: 18px;
+}
+
+.form-check-input:checked {
+background-color: green;
+border-color: white;
+}
